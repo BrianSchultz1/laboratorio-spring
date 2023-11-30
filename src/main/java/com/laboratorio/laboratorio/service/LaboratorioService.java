@@ -1,4 +1,6 @@
-package com.laboratorio.laboratorio;
+package com.laboratorio.laboratorio.service;
+
+import com.laboratorio.laboratorio.Laboratorio;
 
 import java.util.List;
 
